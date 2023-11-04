@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/878c8f53c3bd4d9ca9635a3502dac217/artifacts
+end_time: 1699112888946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 878c8f53c3bd4d9ca9635a3502dac217
+run_name: secretive-shark-70
+run_uuid: 878c8f53c3bd4d9ca9635a3502dac217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699112888930
+status: 3
+tags: []
+user_id: Guchi

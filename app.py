@@ -8,6 +8,7 @@ import os
 from src.endtoend.components.data_transformation import DataTransformatioConfig,DataTransformatio
 from src.endtoend.components.model_trainer import ModelTrainerConfig,ModelTrainer
 
+
 if __name__=="__main__":
     logging.info("execution started")
     try:
@@ -21,12 +22,7 @@ if __name__=="__main__":
         train_arr,test_arr,_=data_transformation.initiate_data_transformation(train,test)
         ##model training
         modeltrainer=ModelTrainer()
-        acc,clp=modeltrainer.initiate_model_trainer(train_arr,test_arr)
-        
-        print(clp)
-        
-
-
+        modeltrainer.initiate_model_trainer(train_arr,test_arr)
         
     except Exception as e:
         logging.info('gadbad h')

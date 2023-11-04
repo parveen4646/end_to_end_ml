@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/526a51a02377491b9c1a1e43ab9f406a/artifacts
+end_time: 1699102117294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 526a51a02377491b9c1a1e43ab9f406a
+run_name: valuable-rat-288
+run_uuid: 526a51a02377491b9c1a1e43ab9f406a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699102117268
+status: 3
+tags: []
+user_id: Guchi

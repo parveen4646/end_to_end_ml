@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/5ee9206e140a44ef9dc3ae6400f7a055/artifacts
+end_time: 1699107543318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ee9206e140a44ef9dc3ae6400f7a055
+run_name: wise-stork-262
+run_uuid: 5ee9206e140a44ef9dc3ae6400f7a055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699107541736
+status: 3
+tags: []
+user_id: Guchi

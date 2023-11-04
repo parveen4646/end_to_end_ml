@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/f4faebab83df4a3b81f33adcfd3837d3/artifacts
+end_time: 1699107617296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4faebab83df4a3b81f33adcfd3837d3
+run_name: overjoyed-shad-760
+run_uuid: f4faebab83df4a3b81f33adcfd3837d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699107617166
+status: 3
+tags: []
+user_id: Guchi

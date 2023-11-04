@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/82af7497525e46cb9e1a59ce0523443e/artifacts
+end_time: 1699107541734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82af7497525e46cb9e1a59ce0523443e
+run_name: worried-hog-979
+run_uuid: 82af7497525e46cb9e1a59ce0523443e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699107541605
+status: 3
+tags: []
+user_id: Guchi
