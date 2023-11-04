@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/f18d084237c54fb4b09e214e30dba498/artifacts
+end_time: 1699093376293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18d084237c54fb4b09e214e30dba498
+run_name: monumental-frog-810
+run_uuid: f18d084237c54fb4b09e214e30dba498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699093376272
+status: 3
+tags: []
+user_id: Guchi

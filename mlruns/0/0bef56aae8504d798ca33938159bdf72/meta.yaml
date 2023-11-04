@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/0bef56aae8504d798ca33938159bdf72/artifacts
+end_time: 1699091640193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bef56aae8504d798ca33938159bdf72
+run_name: bald-bee-693
+run_uuid: 0bef56aae8504d798ca33938159bdf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699091640167
+status: 4
+tags: []
+user_id: Guchi

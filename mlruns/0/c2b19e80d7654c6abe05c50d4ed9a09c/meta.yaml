@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/c2b19e80d7654c6abe05c50d4ed9a09c/artifacts
+end_time: 1699101043582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b19e80d7654c6abe05c50d4ed9a09c
+run_name: exultant-hound-744
+run_uuid: c2b19e80d7654c6abe05c50d4ed9a09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699101043556
+status: 3
+tags: []
+user_id: Guchi

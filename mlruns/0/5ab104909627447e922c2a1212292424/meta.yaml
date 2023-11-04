@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/5ab104909627447e922c2a1212292424/artifacts
+end_time: 1699092193484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ab104909627447e922c2a1212292424
+run_name: classy-pig-979
+run_uuid: 5ab104909627447e922c2a1212292424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699092193470
+status: 4
+tags: []
+user_id: Guchi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/1cde24cdeb374d78992baaae35f974b8/artifacts
+end_time: 1699093378599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cde24cdeb374d78992baaae35f974b8
+run_name: classy-foal-649
+run_uuid: 1cde24cdeb374d78992baaae35f974b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699093376297
+status: 3
+tags: []
+user_id: Guchi

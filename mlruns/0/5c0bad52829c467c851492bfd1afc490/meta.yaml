@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/5c0bad52829c467c851492bfd1afc490/artifacts
+end_time: 1699092321507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0bad52829c467c851492bfd1afc490
+run_name: enchanting-carp-423
+run_uuid: 5c0bad52829c467c851492bfd1afc490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699092321493
+status: 4
+tags: []
+user_id: Guchi

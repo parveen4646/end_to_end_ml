@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/73404c7db6b14e428062a0ad7992e829/artifacts
+end_time: 1699101046197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73404c7db6b14e428062a0ad7992e829
+run_name: overjoyed-shrike-20
+run_uuid: 73404c7db6b14e428062a0ad7992e829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699101043585
+status: 3
+tags: []
+user_id: Guchi

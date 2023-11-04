@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Guchi/Documents/projects/endtoendmlproject/mlruns/0/29c8316886464047a2daee891b996ffe/artifacts
+end_time: 1699093286273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c8316886464047a2daee891b996ffe
+run_name: unequaled-midge-189
+run_uuid: 29c8316886464047a2daee891b996ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699093286247
+status: 4
+tags: []
+user_id: Guchi
