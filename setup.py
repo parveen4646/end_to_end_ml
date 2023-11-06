@@ -1,8 +1,11 @@
 from setuptools import setup, find_packages
+hypen='-e .'
 
 # Read the requirements from the 'requirements.txt' file
 with open('requirements.txt') as f:
-    install_requires = f.read().strip().split('\n')
+    x = f.read().strip().replace('-e .', '').split('\n')
+    
+    
 
 setup(
     name='endtoend',
@@ -12,5 +15,5 @@ setup(
     author_email='parveen11030@email.com',
     url='https://github.com/parveen4646/',
     packages=find_packages(),
-    install_requires=install_requires,  # Use the list of requirements from requirements.txt
+    install_requires=x  # Use the list of requirements from requirements.txt
 )
